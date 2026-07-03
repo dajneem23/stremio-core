@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SettingsOptionValue"],"struct":["ArchiveCreateResponse","GetHTTPSResponse","OpensubtitlesParamsResponse","SettingsOption","SettingsOptionSelection","SettingsResponse"]};
